@@ -6,16 +6,27 @@ const app = express()
 const path = require('path');
 var cors = require('cors');
 require('dotenv').config();
-const cookieParser = require('cookie-parser');
-const corsOptions = require('./config/corsOptions');
+const cookieParser = require('cookie-parser')
+
 const PORT = process.env.PORT || 3500;
+
+let allowlist = ['http://localhost:3500/login']
+let corsOptionsDelegate = function (req, callback) {
+    let corsOptions;
+    if (allowlist.indexOf(req.header('Origin')) !== -1) {
+        corsOptions = { origin: true }
+    } else {
+        corsOptions = { origin: false }
+    }
+    callback(null, corsOptions)
+}
 
 //body parser middleware
 app.use(express.json());
 
 app.use(cookieParser())
 
-app.use(cors(corsOptions))
+app.use(cors(corsOptionsDelegate))
 
 app.use(logger)
 

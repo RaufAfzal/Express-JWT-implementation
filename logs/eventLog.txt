@@ -522,4 +522,120 @@ GET	undefined	/employees2024923	15:37:23
 6834a15c-af63-4ca1-83f3-7090f1f7f264	
 GET	undefined	/employees2024923	15:37:24	
 4a751d23-d47c-4373-a95c-705253a82285	
-GET	undefined	/employees
+GET	undefined	/employees2024923	16:15:39	
+9b235c87-a7f9-4bc9-b615-3cee4e982e76	
+POST	undefined	/r2024923	16:16:01	
+14808f8b-d190-4343-8ddd-11ecdf515d4c	
+POST	undefined	/register2024923	16:19:28	
+e8fbd829-b91a-4b1f-8fa8-0d7531ba481a	
+GET	undefined	/register2024923	16:19:44	
+24df6420-6128-4916-b246-c30054241e1c	
+POST	undefined	/register2024923	16:20:53	
+c716735c-bedb-415a-a163-a469c2ca316e	
+POST	undefined	/register2024923	16:22:13	
+73dda929-9bdc-4100-b2d5-e4fca479cede	
+POST	undefined	/register2024923	16:23:21	
+72a68149-375c-4808-8b12-0fbb02c81204	
+POST	undefined	/register2024923	16:25:30	
+1e4a725d-857c-4148-b52d-5bc41a798e48	
+POST	undefined	/register2024923	16:25:56	
+f1789380-98cb-4dce-92c2-3aa18cb21077	
+POST	undefined	/register2024923	16:26:45	
+2f691273-b415-4f47-8cf1-820dcab94a2a	
+POST	undefined	/register2024923	16:30:40	
+215858fb-3bb2-4673-a196-90756e618beb	
+POST	undefined	/login2024923	18:09:54	
+904f1ae1-8951-4bcf-ad96-f60125ca3204	
+POST	undefined	/login2024923	18:10:16	
+1c3446d6-d933-4279-9d61-c0f3de5a41f4	
+GET	undefined	/employees2024923	18:11:46	
+5730e21e-f937-4198-9f11-02b60eba3c9a	
+POST	undefined	/login2024923	18:12:09	
+4131b4ba-b60d-4532-9643-5cedeb88d3be	
+GET	undefined	/employees2024923	18:14:33	
+45411dbf-5b2f-4266-acb1-194e0bbadc7f	
+POST	undefined	/login2024923	18:14:54	
+20d30602-c8bd-4040-af34-a6eb34547c31	
+GET	undefined	/employees2024923	18:17:16	
+aca2b8e8-09fd-4125-9710-6f5bc50ed943	
+GET	undefined	/login2024923	18:17:56	
+d495b55d-ee1c-4999-9986-6c38875d876b	
+POST	undefined	/employees2024923	18:20:13	
+5f78d4cf-3430-4c8d-a7cc-01d319a12bb9	
+GET	undefined	/login2024923	18:20:45	
+11d3c11d-12b7-4830-b2e0-d49260369d3b	
+POST	undefined	/login2024923	18:21:05	
+e01f8d2f-d9f5-4645-bc8c-f158a09e850e	
+POST	undefined	/employees2024923	18:21:11	
+f048e576-712d-46bc-9330-7f81090bc399	
+GET	undefined	/employees2024923	18:21:48	
+61b151c1-5834-40b3-9e8e-abc5846bcdc1	
+POST	undefined	/login2024923	18:22:04	
+d21c58d8-4cdb-47a3-82bd-45d82444d174	
+GET	undefined	/employees2024923	18:22:28	
+9cf02cac-1c0e-404a-8550-6f459f105934	
+GET	undefined	/employees2024923	18:22:51	
+f2d666ec-3795-4520-9332-ff595f96ddac	
+GET	undefined	/employees2024923	18:26:48	
+a00f962e-99e0-4c71-a036-66c556bce861	
+POST	undefined	/login2024923	19:00:57	
+a941bcb7-1c4d-4276-97cc-8bd233dc0c19	
+POST	undefined	/login2024923	19:02:52	
+e668d184-06f1-49a1-9fb7-f117d18c7753	
+POST	undefined	/employees2024923	19:04:00	
+1d361cd1-e180-49c3-9396-ef687dbd71c3	
+POST	undefined	/login2024923	19:05:02	
+d76d8f50-bc45-4e1f-b22c-be4d3ea1536f	
+POST	undefined	/employees2024923	19:05:48	
+8cc9bfbe-de52-4354-bf88-d48b2165b216	
+POST	undefined	/employees2024923	19:05:58	
+8753df57-b5fa-4b3b-a6fd-4e30c680cb45	
+DELETE	undefined	/employees2024923	19:06:28	
+9b0a949f-0cec-4f7f-a41c-ec9ef63cf962	
+DELETE	undefined	/employees2024923	19:09:26	
+b385dd45-20c7-48b8-88b9-f022268f10b9	
+POST	undefined	/login2024923	19:10:31	
+cd274b74-77e0-4b1e-92a7-95b0ddcb695f	
+POST	undefined	/login2024923	19:11:47	
+2aa006a0-73dd-4a09-aa07-402526509ce8	
+DELETE	undefined	/employees2024923	21:48:13	
+5712520a-ca7c-44f3-a99d-515ab0e254e2	
+POST	undefined	/login2024923	21:49:57	
+a6a08551-f96a-4e13-ba43-1b145a389c1d	
+DELETE	undefined	/employees2024923	21:50:29	
+3ac6e89c-116b-4d58-ab5e-0a2dfecfbd43	
+POST	undefined	/login2024923	21:50:47	
+100f3cf8-98c6-428d-8b36-8fd4fe3efdca	
+DELETE	undefined	/employees2024923	21:51:27	
+c80a1ddb-4ccd-480b-be54-fc1da6943227	
+DELETE	undefined	/employees2024923	21:52:58	
+f785fb68-18bb-4ece-9662-d09315525b47	
+DELETE	undefined	/employees2024923	21:53:28	
+2d520d5f-3ea8-4b8a-9bb3-316de40755f0	
+POST	undefined	/login2024923	21:53:46	
+6340a465-525c-401c-b50f-4b5cf6bcd2c2	
+DELETE	undefined	/employees2024923	21:54:00	
+d785ab74-c4a8-4e6b-93d5-ba29dc1abcbc	
+DELETE	undefined	/employees2024923	21:54:03	
+b202b564-a7d7-484d-9191-316588a92fd4	
+DELETE	undefined	/employees2024923	21:54:47	
+71d18fca-11c2-4305-972b-19cf0d206073	
+DELETE	undefined	/employees2024923	21:59:58	
+6826b338-6ef5-4232-8db9-8b8bad9eb0d0	
+POST	undefined	/login2024923	22:00:16	
+99c03a95-b50a-4e3f-b1c0-b539c7ebe2cc	
+POST	undefined	/employees2024923	22:02:56	
+29d418bf-8700-4d76-9e99-ef6757687cec	
+POST	undefined	/login2024923	22:03:11	
+7fd2da61-6170-4b5e-b1cf-8dfa7047b591	
+POST	undefined	/employees2024923	22:04:27	
+97a926d0-0f24-458b-b27d-9826040574b2	
+POST	undefined	/login2024923	22:04:44	
+4b887232-12e4-4b5a-a81a-22721936838e	
+POST	undefined	/employees2024923	22:06:14	
+3c3d60fa-2556-44e8-9a5d-64d171ac9172	
+POST	undefined	/login2024923	22:06:45	
+c6e8457d-1674-4b6e-b5e3-812ca435aefb	
+POST	undefined	/employees2024923	22:07:28	
+64d212e8-9bc8-4283-9f63-239c8fce275c	
+DELETE	undefined	/employees
