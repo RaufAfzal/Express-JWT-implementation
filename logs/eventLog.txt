@@ -638,4 +638,340 @@ POST	undefined	/login2024923	22:06:45
 c6e8457d-1674-4b6e-b5e3-812ca435aefb	
 POST	undefined	/employees2024923	22:07:28	
 64d212e8-9bc8-4283-9f63-239c8fce275c	
-DELETE	undefined	/employees
+DELETE	undefined	/employees2024924	12:36:22	
+369c15c8-eedb-4b23-9fd0-e1e5c850cd6a	
+POST	undefined	/register2024924	12:37:05	
+7a23239a-ad25-4d4e-a93b-d040d848933a	
+POST	undefined	/register2024924	12:39:53	
+d7011101-2132-4598-9aae-1b7824dfca2b	
+POST	undefined	/register2024924	12:46:20	
+96bc987a-7fad-44d5-b262-67109e5a4731	
+POST	undefined	/register2024924	13:36:42	
+14afa539-39d8-43d4-9eb2-72bdf5498925	
+POST	undefined	/register2024924	13:37:09	
+80171b8b-283e-48ae-83c5-876845a03c48	
+POST	undefined	/register2024924	13:41:28	
+ca9c7b0b-43d0-4146-9ab7-b30f06b443d0	
+POST	undefined	/register2024924	13:42:40	
+38a8504d-fa7e-4387-83ef-b058e60d8851	
+POST	undefined	/register2024924	13:46:07	
+ea6e57e8-f790-4266-b8e2-436bc9f9b8d1	
+POST	undefined	/register2024924	13:48:25	
+e5a986ad-4036-46fc-b877-afcb47e8e909	
+POST	undefined	/register2024924	13:49:51	
+487fbcd0-f16f-48aa-8e13-1ece0f6721d6	
+POST	undefined	/login2024924	13:50:24	
+c98d989a-3645-4081-8386-3c00eb08749d	
+POST	undefined	/login2024924	13:51:02	
+0ee7d91d-00b6-478c-b1f7-9730386aa804	
+POST	undefined	/register2024924	13:51:14	
+94b08bb0-4f47-4655-8a7a-8ff7bb30faf2	
+POST	undefined	/register2024924	13:52:14	
+7d1307ca-d34d-4b41-b7b2-4a1ea1e93729	
+POST	undefined	/register2024924	13:52:55	
+ac30aa37-4ba9-43a4-81c7-9d3177234729	
+GET	undefined	/register2024924	13:56:07	
+c412dae3-f4fd-482e-8dc3-f1ed5f897f98	
+GET	undefined	/refresh2024924	13:58:53	
+f5a64059-8b2f-47c7-b180-32841924bad7	
+POST	undefined	/login2024924	13:59:40	
+543f7edf-56d4-432e-92ab-cc4829ae2a5e	
+POST	undefined	/login2024924	13:59:50	
+c55dee1b-d4a4-49a6-a31b-6c4dab6f0343	
+POST	undefined	/logout2024924	14:48:25	
+4861b15e-4d1a-4ead-8c9b-8d92d9bc4788	
+POST	undefined	/login2024924	14:48:45	
+71c11df0-5086-4972-8abf-b43ccee3b25b	
+GET	undefined	/employees2024924	14:51:11	
+61998d21-dbcc-4bf8-848c-9db3bd45b953	
+GET	undefined	/employees2024924	14:51:49	
+3bf97dd5-fa39-436e-a36d-5d59cd1dca96	
+POST	undefined	/login2024924	14:52:09	
+a47408a5-ced9-452b-8d96-9389d687be0f	
+GET	undefined	/employees2024924	14:54:28	
+c9fd0fa3-47b4-462b-b6b1-37ab0a9d51ad	
+GET	undefined	/employees2024924	14:56:40	
+9ad8ccda-1b6c-4fdb-ab21-83425779c707	
+POST	undefined	/employees2024924	14:57:01	
+dc962a3b-af9e-42f9-a3b6-50470edeb78c	
+POST	undefined	/employees2024924	14:57:08	
+5747a8b8-9cc3-46f9-a071-c25e2e7f6197	
+POST	undefined	/employees2024924	14:57:09	
+9aa40942-ff5a-4efc-ba35-4aacc7a3e399	
+POST	undefined	/employees2024924	14:58:34	
+d3495214-6db6-4ea3-95db-0d61b2dfc21a	
+GET	undefined	/employees2024924	23:16:44	
+d676f7a4-5722-40cc-b081-425971cf7d77	
+POST	undefined	/login2024924	23:17:42	
+c9d85f81-1e16-488d-af18-99c583de7ecb	
+POST	undefined	/employees2024924	23:18:38	
+ca86b2ed-77e4-49cb-9f33-5a9961d5c3bc	
+POST	undefined	/employees2024924	23:21:06	
+ae47d748-80ef-42cc-bc87-cff202bdc83f	
+POST	undefined	/employees2024924	23:22:15	
+a9acce47-2329-4dcd-b5e7-2b2186fc4177	
+POST	undefined	/employees2024924	23:23:27	
+4adb5d15-abd8-4e50-80cc-4c34ea35f5bf	
+POST	undefined	/employees2024924	23:24:02	
+2322c167-d7a5-49cd-b74b-79f9267d282c	
+POST	undefined	/employees2024924	23:24:42	
+7c10e323-a915-426c-a021-b6a65867b453	
+POST	undefined	/employees2024924	23:25:18	
+3fedeb40-5994-47b5-938c-4d8f40a19ff2	
+POST	undefined	/employees2024924	23:27:23	
+e4d6eb42-e0fc-47ee-a769-1eaf79926245	
+POST	undefined	/login2024924	23:27:46	
+cc0d38e3-8d1e-4889-92d2-a5678691fc2b	
+POST	undefined	/employees2024924	23:32:48	
+f8e3b540-a160-40d5-aabd-6c4a6e28aa62	
+POST	undefined	/login2024924	23:33:21	
+82c785cd-5120-4f09-932a-0cf7120f88a7	
+POST	undefined	/employees2024925	01:48:44	
+edbabcee-a2bc-4104-8f61-2e2a5d607fa9	
+POST	undefined	/login2024925	01:49:23	
+1e4c2af1-9325-4806-a8a0-95df758371a3	
+POST	undefined	/employees2024925	13:55:53	
+69a859f0-8e7e-4191-b7ea-4bb17934125e	
+GET	undefined	/login2024925	13:58:43	
+976c3335-5093-4a59-81fb-f1926b4cef2c	
+POST	undefined	/register2024925	13:59:00	
+b5237411-0da8-4460-86f0-462cdd201ebf	
+POST	undefined	/login2024925	14:01:41	
+ccaa1be3-8991-4b46-bd3d-4eca5cdcbe8f	
+POST	undefined	/login2024925	14:15:22	
+2668ff88-d77d-4e3e-a14e-4a05b1793bda	
+POST	undefined	/login2024925	14:23:22	
+50800b41-7d89-416a-b76e-7b5d69ed8bc9	
+POST	undefined	/login2024925	14:23:45	
+a00cd05c-47f8-4939-9883-12dff72e3559	
+GET	undefined	/users2024925	14:25:13	
+4281cb97-18eb-47fd-9c18-d086559c6e18	
+POST	undefined	/login2024925	14:25:38	
+24284b43-f40b-4576-83de-7844402c3ac2	
+GET	undefined	/users2024925	14:34:30	
+3b00da7f-5fd0-499f-a5af-c141f211e6a0	
+POST	undefined	/register2024925	14:34:37	
+626f5f2f-4c22-4ffc-ad26-089ba59af0fc	
+POST	undefined	/login2024925	14:35:20	
+249a0be1-4a3b-4097-899a-d7cb1e89efc3	
+GET	undefined	/users2024925	14:48:31	
+b60c1b01-0ffb-40e1-8e21-fd4f71dc594a	
+POST	http://localhost:3000	/login2024925	14:51:32	
+e89d6307-7e4f-45ff-a747-629e4ea5017f	
+POST	http://localhost:3000	/signup2024925	14:51:35	
+3148c84e-0971-4371-8a22-de8f33e2cc60	
+POST	http://localhost:3000	/signup2024925	14:51:37	
+3ea64e53-3c2e-4812-91a5-778b7c49b3fd	
+POST	http://localhost:3000	/signup2024925	14:51:38	
+9ed7107c-decc-4d1c-bcfc-46a9812e2f21	
+POST	http://localhost:3000	/signup2024925	14:52:49	
+5a6140f3-a968-4f45-82d5-37f94e18bc0f	
+POST	http://localhost:3000	/signup2024925	14:52:50	
+7b148c89-1c72-4f8b-b2e4-292631f708ff	
+POST	http://localhost:3000	/signup2024925	14:56:09	
+663392de-e0a8-4ec0-bb8e-481ad5a577fb	
+POST	http://localhost:3000	/signup2024925	14:56:09	
+5a0d932f-00a9-4f38-bf16-29d9e727ea09	
+POST	http://localhost:3000	/signup2024925	14:56:09	
+b870370d-11ff-4dfe-bde1-26d19c5d07ed	
+POST	http://localhost:3000	/signup2024925	14:56:09	
+eb951275-a067-4792-9ec7-3450acf4000a	
+POST	http://localhost:3000	/signup2024925	14:56:09	
+3f6f6e38-225d-4bd0-a67c-f9b33065a47a	
+POST	http://localhost:3000	/login2024925	14:57:02	
+9dd48d3f-ecce-48fe-b4d7-20b5770bf3b9	
+POST	http://localhost:3000	/signup2024925	14:57:07	
+f58d16ef-6462-4c32-8e86-9488f163a1d4	
+POST	http://localhost:3000	/signup2024925	14:57:07	
+f8360f14-57bc-42be-b03c-99f1cabb7c14	
+POST	http://localhost:3000	/signup2024925	14:57:09	
+1a67f4c8-18fc-4f5b-9e73-b63c2b563dd2	
+POST	http://localhost:3000	/signup2024925	14:57:09	
+b7e90b85-8e53-489e-b8ad-c7818ae96960	
+POST	http://localhost:3000	/signup2024925	14:57:09	
+9c9c6b2a-0557-418e-9b4a-3c0e2518ddfc	
+POST	http://localhost:3000	/signup2024925	15:01:33	
+891449f4-e58c-4f8c-98d9-0d77589a9ee6	
+POST	http://localhost:3000	/signup2024925	15:01:33	
+ac6157c0-dee3-4d08-be82-fd07928005ff	
+POST	http://localhost:3000	/signup2024925	15:01:53	
+9e18a430-19d5-496c-8c75-0e2beb0cd2fa	
+POST	http://localhost:3000	/signup2024925	15:02:03	
+14493fd2-bd54-4b26-9df2-fd5d658c6ac6	
+POST	http://localhost:3000	/signup2024925	15:02:04	
+4f1e9b44-fe67-449f-a3bb-74aab41c5fee	
+POST	http://localhost:3000	/signup2024925	15:02:05	
+bcc8b308-42df-4ff3-ad3b-38ff6ee9d58c	
+POST	http://localhost:3000	/signup2024925	15:02:06	
+34095e80-4eee-416e-9369-408a3001e052	
+POST	http://localhost:3000	/signup2024925	15:02:10	
+fc201e71-f3ce-41a5-9264-35d851cb05b2	
+POST	http://localhost:3000	/signup2024925	15:06:14	
+a25c1909-4710-4e94-958e-259ea65b0198	
+POST	http://localhost:3000	/signup2024925	15:06:38	
+8ee79121-2dcf-44a3-a49b-62beb3af609c	
+POST	http://localhost:3000	/register2024925	15:13:03	
+d654ec72-3063-4b63-b4e5-ce8118c602c7	
+POST	http://localhost:3000	/login2024925	15:14:18	
+98eff3fd-2fa4-4c8b-8ccf-57176a74938e	
+POST	http://localhost:3000	/register2024925	15:17:43	
+4ac7cc32-e516-4ca0-949b-1a2b812aefba	
+POST	undefined	/login2024925	15:18:06	
+09b905f3-fdd1-4dc5-a7e5-72fb57bb7fa9	
+POST	undefined	/login2024925	15:19:13	
+b74eea76-0ba1-4064-9705-907652f511b1	
+POST	http://localhost:3000	/login2024925	15:21:52	
+7009aeef-b338-4f0f-84ff-5a712efa7a44	
+POST	http://localhost:3000	/login2024925	15:23:30	
+7130baf5-5d1a-490d-b20d-0234528c51e8	
+POST	http://localhost:3000	/login2024925	15:23:33	
+cf95bc15-9f4b-4feb-9276-737f2927ebc5	
+POST	http://localhost:3000	/login2024925	15:25:39	
+ea4d4b92-aab2-4e57-bef7-34e83a73eeab	
+POST	http://localhost:3000	/login2024925	15:28:27	
+8c05557e-9098-4604-a4d9-7366f5a67bec	
+POST	http://localhost:3000	/login2024925	15:32:44	
+52ae6cd9-f2f0-49f4-90a4-cc622d3fc234	
+POST	http://localhost:3000	/login2024925	15:33:40	
+098aa169-bd9a-46f5-9c6b-4fe9fa21df8d	
+POST	http://localhost:3000	/login2024925	15:37:36	
+e6073d45-d75c-4620-96dd-152e98602b3b	
+POST	http://localhost:3000	/login2024925	15:38:20	
+802aa6e1-c1a2-41a0-8c31-788812cfeb34	
+POST	http://localhost:3000	/login2024925	15:41:00	
+6a85389b-9dcd-49d9-98be-9d1dffd28b2c	
+POST	http://localhost:3000	/login2024925	16:00:35	
+f43f7615-4a7b-466a-8905-89b3ceb8d2f5	
+POST	http://localhost:3000	/login2024925	16:00:46	
+e1d6c3a7-c4b5-4710-93b6-2590209bd143	
+POST	http://localhost:3000	/login2024925	16:02:10	
+ac1649e3-8d4e-4888-a018-7a0e32f93df1	
+POST	http://localhost:3000	/login2024925	16:02:29	
+565f3ad7-c8f6-4a39-9ef7-440ddcec2ac5	
+GET	http://localhost:3000	/users2024925	16:02:29	
+2cb34ed3-dc1b-4859-8cf6-1265b07b80f6	
+GET	http://localhost:3000	/users2024925	20:24:53	
+67af4e29-9cc4-4999-8c39-28f477de5c61	
+POST	http://localhost:3000	/login2024925	20:25:13	
+564b04b5-eb78-47af-b072-fab015019ce4	
+GET	http://localhost:3000	/users2024925	20:25:13	
+3a2a5f67-2ec9-42d5-8a53-a70263fa26ce	
+GET	http://localhost:3000	/users2024925	20:26:37	
+6399e2ad-f254-4a05-b349-250c4f681461	
+POST	http://localhost:3000	/login2024925	20:26:38	
+7ca389ce-8275-4588-b2d0-c51e9615bd3d	
+GET	http://localhost:3000	/users2024925	20:26:38	
+450fc1f9-e40b-4de0-bd93-208b454c8431	
+GET	http://localhost:3000	/users2024925	20:29:06	
+e2166d72-d9c1-4046-92a1-e2eb9edda2af	
+POST	http://localhost:3000	/login2024925	20:29:07	
+2358b31c-eafe-4f9a-bbf6-a172706d7e20	
+GET	http://localhost:3000	/users2024925	20:29:07	
+e0e96e84-28f7-4a0f-88f1-3660700da90f	
+GET	http://localhost:3000	/users2024925	21:26:06	
+e90b6211-a3c5-4cce-a56a-ecd8f1c7435e	
+GET	http://localhost:3000	/users2024925	21:26:26	
+ffe70a1b-e290-446c-b121-a9cc8bcf1e00	
+POST	http://localhost:3000	/login2024925	21:26:26	
+c275fcab-8ce9-42c0-b296-8d96be3a5ad8	
+GET	http://localhost:3000	/users2024925	21:26:27	
+cd3d6061-9cd6-4256-947c-b31356eaa80f	
+GET	http://localhost:3000	/users2024925	21:26:59	
+d83bfdb9-09f1-4b22-b650-0d1b8340602b	
+POST	http://localhost:3000	/login2024925	21:26:59	
+cb6fab48-04e2-41a6-b494-45b54e73371b	
+GET	http://localhost:3000	/users2024925	21:26:59	
+0e153e9b-3386-421f-8fd9-f713d1dd8e3e	
+GET	http://localhost:3000	/users2024925	22:53:03	
+b4457de4-de0b-49c0-9f76-f08759eddcaa	
+POST	http://localhost:3000	/login2024925	22:53:13	
+b89a80f2-b528-4ddb-b449-63fe735ed05e	
+GET	undefined	/login2024925	22:53:56	
+d90d51c0-026d-48f5-990a-937666d9ea6c	
+GET	undefined	/login2024925	22:54:27	
+dd11910e-7a89-43d7-bfd2-22993a0637b8	
+POST	undefined	/login2024925	22:54:50	
+6fef2e7e-00d8-4de9-937b-e6645b622327	
+GET	undefined	/users2024925	22:55:32	
+64cc59cd-0b88-4105-bda2-95f6861b0904	
+GET	undefined	/users2024925	22:55:59	
+dbf835fb-12ee-4427-84cf-7a2cca62d29a	
+POST	undefined	/login2024925	22:56:20	
+08e8e675-729e-4198-b1a5-219618e70430	
+GET	undefined	/employees2024925	22:56:29	
+2163959b-c8e9-4544-bf6d-8a21285e95b8	
+GET	undefined	/users2024925	22:57:40	
+98f3706d-641e-4736-8611-f6aa079155eb	
+GET	undefined	/users2024925	22:57:43	
+32b2e739-309b-47d4-8057-28cbaf6cde50	
+GET	undefined	/users2024925	22:57:51	
+2a8313d8-a6bc-4b5c-96a6-41935187da97	
+GET	undefined	/users2024925	22:58:29	
+4ff1ced4-7abe-4026-9e46-7bb59a406c18	
+POST	http://localhost:3000	/login2024925	22:58:58	
+4334d38b-89dc-420a-a5a3-77db9689b22d	
+GET	http://localhost:3000	/users2024925	22:59:59	
+fad63ddb-c4fd-42fa-b844-e35f9d5a8eb9	
+POST	http://localhost:3000	/login2024925	23:00:19	
+494a794c-78c7-4907-817d-8273a0149e84	
+GET	http://localhost:3000	/users2024925	23:02:19	
+29a4a189-ec61-4577-ad89-a51438304af9	
+POST	http://localhost:3000	/login2024925	23:02:40	
+4f88250a-e0b4-4c23-8f3c-bc6493ad6ba6	
+GET	http://localhost:3000	/users2024925	23:08:10	
+b04a7317-9074-4294-886b-051e9b7a4e40	
+GET	undefined	/users2024925	23:08:37	
+6b1185f1-d49d-4beb-8c89-dccd978c9805	
+GET	undefined	/users2024925	23:11:03	
+980053c7-e025-4370-80ef-fe60d417d555	
+GET	http://localhost:3000	/refresh2024925	23:11:09	
+e3cbeb53-a821-4015-8fbf-17959b30b8c8	
+GET	http://localhost:3000	/refresh2024925	23:11:19	
+6bf034d2-52a4-413b-b623-ec1812e6b805	
+GET	http://localhost:3000	/users2024925	23:12:23	
+5eaa3e16-b426-4f27-b18a-3c7bdb23752a	
+GET	http://localhost:3000	/refresh2024925	23:12:39	
+6101d6bc-34a2-4911-b904-eb5c6cc1ae39	
+GET	http://localhost:3000	/users2024925	23:13:21	
+db795c6f-de48-4b28-bf42-82b50fef3940	
+GET	http://localhost:3000	/refresh2024925	23:13:35	
+ee0a489a-ac3d-476c-be9b-2bdce4ed2f4d	
+GET	http://localhost:3000	/refresh2024925	23:13:45	
+180f74cd-9637-43fe-b13e-8622ef887757	
+GET	http://localhost:3000	/refresh2024925	23:17:33	
+661b9363-3d9d-414b-ba61-dad1c95c4722	
+GET	http://localhost:3000	/users2024925	23:31:39	
+624407c9-a33d-4f4c-8b2e-1994bb20a077	
+GET	http://localhost:3000	/users2024925	23:32:46	
+1edceab3-1713-4607-a409-9510d7f0de8a	
+POST	http://localhost:3000	/login2024925	23:32:46	
+12fea0f0-c12a-4a16-8344-667566fc00c4	
+GET	http://localhost:3000	/users2024925	23:42:50	
+aaa62271-c5ca-4de7-89b9-86e7a585d653	
+GET	http://localhost:3000	/users2024925	23:43:27	
+222c95ba-7610-4c26-bc68-02f2364ac84a	
+POST	http://localhost:3000	/login2024925	23:43:27	
+7812e4c4-6d7b-4051-8b3c-3b43dc09bb03	
+GET	http://localhost:3000	/users2024925	23:46:18	
+f0c45247-bdcb-48bd-9b66-725821c51d7b	
+POST	undefined	/login2024925	23:46:36	
+81bab910-9ddf-4a46-bb78-a3b69421033d	
+GET	undefined	/employees2024925	23:47:13	
+cf28d9ba-f721-4a41-8bd4-c4fc39a3e154	
+GET	http://localhost:3000	/employees2024925	23:48:10	
+6d5b1fd7-6115-4f3e-b812-2d94e9898ee7	
+POST	http://localhost:3000	/login2024925	23:48:10	
+93a937aa-9dcc-4637-ad2b-26285e6c8533	
+GET	http://localhost:3000	/employees2024925	23:48:31	
+a08197db-277d-44f0-abe5-5a70dbfad2c6	
+GET	undefined	/users2024925	23:48:55	
+239ebc7c-f28b-4f02-81d1-d768b8174b5b	
+GET	undefined	/employees2024925	23:51:30	
+99ee558c-9e99-4b7b-bf43-0f09ac31faa3	
+GET	http://localhost:3000	/employees2024925	23:51:55	
+ec64ee47-b442-4e0d-9173-4c351140c13e	
+POST	http://localhost:3000	/login2024925	23:51:55	
+9369556a-beb9-4a46-bf8c-96a348c6445b	
+GET	http://localhost:3000	/employees2024926	00:02:45	
+6a11393c-52d7-49c9-ba4c-9bc3f0c05dee	
+GET	undefined	/employees
